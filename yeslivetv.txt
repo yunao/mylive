@@ -1,0 +1,15 @@
+香港電視台,#genre#
+TVB翡翠台,https://euorigin.scdn.eu.org/live/tvb_jade.m3u8?token=gbC0o4IekRsHBMNFceY8HA&expires=1712383210
+無綫新聞台,https://euorigin.scdn.eu.org/live/tvb_news.m3u8?token=N7fXmqNJdKMfHPCzJ2FB3Q&expires=1712382580
+無綫財經台,https://euorigin.scdn.eu.org/live/tvb_finance.m3u8?token=lQdyC-TyFEoOoyrRw93CGg&expires=1712383319
+TVB明珠台,https://euorigin.scdn.eu.org/live/tvb_pearl.m3u8?token=jwOVnxuaVxLh9a_eDsk4rQ&expires=1712383409
+J2台,https://euorigin.scdn.eu.org/live/tvb_j2.m3u8?token=txvd1llv8DGJTm71Lg87EQ&expires=1712383124
+HOY 76台,https://as1.scdn.eu.org/live/hoy76.m3u8?token=PJZ_HbBSmpeay819hUgieg&expires=1712383541
+HOY 77台,https://euorigin.scdn.eu.org/live/hoy77.m3u8?token=8TBbSej1rLM26bhMelrbsQ&expires=1712383657
+HOY 78台,https://as1.scdn.eu.org/live/hoy78.m3u8?token=-jTCvjqukaDcLb6DJZ9g-w&expires=1712383709
+鳳凰資訊台,https://euorigin.scdn.eu.org/live/phoenix_infonews.m3u8?token=9MFiHVXIYdrx64Le9sUCgQ&expires=1712383995
+ViuTV,https://euorigin.scdn.eu.org/live/viu.m3u8?token=FiOtP3bUJKciHyA2cSsp1Q&expires=1712383818
+ViuTV Six,https://euorigin.scdn.eu.org/live/viu6.m3u8?token=igDKBdWb67bO_m8eYDdqZw&expires=1712383893
+RTHK 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8?sd=10&rebase=on
+RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
