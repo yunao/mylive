@@ -14,3 +14,6 @@ ViuTV Six,https://euorigin.scdn.eu.org/live/viu6.m3u8?token=igDKBdWb67bO_m8eYDdq
 RTHK 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8?sd=10&rebase=on
 RTHK 32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
+台湾電視台,#genre#
+中天新闻,https://hls.watchtv.uk/ctinews/playlist-17.m3u8a?t=1712595400&token=7d708659ba7a34392dd2174aedaad1c5
