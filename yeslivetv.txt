@@ -1,6 +1,7 @@
 香港電視台,#genre#
-TVB翡翠台,https://euorigin.scdn.eu.org/live/tvb_jade.m3u8?token=gbC0o4IekRsHBMNFceY8HA&expires=1712383210
-無綫新聞台,https://euorigin.scdn.eu.org/live/tvb_news.m3u8?token=N7fXmqNJdKMfHPCzJ2FB3Q&expires=1712382580
+TVB翡翠台,https://hls.watchtv.uk/ompd/jade/index.m3u8?t=1712592593&token=a34e9a05628a9d26abbd260f31f25bbb
+TVB娱乐新闻台,https://hls.watchtv.uk/ompd/ctve/index.m3u8?t=1712593318&token=445af494cf979072c311435d0dbc4725
+無綫新聞台,https://hls.watchtv.uk/ompd/inews/index.m3u8?t=1712592739&token=b34e9de6f390f6ada150615088baa3ac
 無綫財經台,https://euorigin.scdn.eu.org/live/tvb_finance.m3u8?token=lQdyC-TyFEoOoyrRw93CGg&expires=1712383319
 TVB明珠台,https://euorigin.scdn.eu.org/live/tvb_pearl.m3u8?token=jwOVnxuaVxLh9a_eDsk4rQ&expires=1712383409
 J2台,https://euorigin.scdn.eu.org/live/tvb_j2.m3u8?token=txvd1llv8DGJTm71Lg87EQ&expires=1712383124
